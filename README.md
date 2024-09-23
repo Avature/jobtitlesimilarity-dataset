@@ -20,10 +20,11 @@ The result is a dataset composed of the following files:
 
 
 We also provide the translated datasets introduced in "Combined Unsupervised and Contrastive Learning for 
-Multilingual Job Recommendations" by Deniz et al. [[2]](#citation). We replicate this dataset for the 
+Multilingual Job Recommendations" by Deniz et al. [[2]](#citation). We replicate the English dataset for 
 other languages by using Human Translation (HT) or Machine Translation (MT).
 
-The datasets can be found under the [dataset/](./dataset) folder. Each dataset is under the folder with the ISO language name
+The datasets can be found under the [dataset/](./dataset) folder. Each dataset is under the folder with the ISO language 
+code.
 
 
 |           ISO code | Language   | Translation |
